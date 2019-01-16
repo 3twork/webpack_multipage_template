@@ -1,0 +1,26 @@
+{
+  "name": "webpack_multipage",
+  "description": "webpack多页面配置",
+  "main": "index.js",
+  "authors": [
+    "Director"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "webpack",
+    "multipage"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+	],
+	"dependencies": {
+		"jquery": "latest",
+    "bootstrap": "latest"
+	}
+}
